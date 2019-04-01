@@ -22,7 +22,7 @@ void setup() {
   t0 = 0;             //Esta variable definida arriba de setup hace que no funcione
   
   //Configurar monitor serie
-  Serial.begin(9600);
+  Serial.begin(9603);
 
   //Mensaje de inicio
   Serial.println("Inicio de programa");
